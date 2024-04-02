@@ -1,0 +1,73 @@
+*{
+    color: yellow !important;
+}
+body{
+    background-color: rgb(66, 61, 61);
+}
+i{
+    color:  aliceblue !important;
+}
+.navcolor{
+    background-image: linear-gradient(to right,indigo,purple) !important;
+}
+.butn{
+    background-color:transparent;
+    border: 2px solid rgba(225, 225, 225, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    border-radius: 10px;
+    
+    color: aliceblue !important;
+}
+.moviesicon{
+    color: yellow !important;
+}
+.grid{
+    background-color: rgb(66, 61, 61);
+}
+.col-2:hover{
+    opacity: 65%;
+}
+.inp{
+    width:90%;
+    border: none;
+    border-bottom: 1px solid aliceblue;
+    background-color: transparent;
+    margin-bottom: 4%;
+}
+
+.model input{
+    width:100%;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid aliceblue;
+}
+.white{
+    color: aliceblue !important;
+}
+button:hover{
+ background-color: aliceblue !important;
+ color: purple !important;
+ border: none !important;
+}
+button:hover i{
+    color: purple !important;
+}
+input:focus{
+    outline: none !important;
+}
+.model-con{
+    background-color: transparent;
+    border: 2px solid rgba(225, 225, 225, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+    border-radius: 10px;
+}
+input::placeholder{
+    color: darkgrey;
+    opacity: 1;
+}
+.card-down{
+    margin-bottom: 2vh;
+}
+
